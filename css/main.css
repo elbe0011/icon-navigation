@@ -1,0 +1,18 @@
+html {
+  font-family: "Abhaya Libre", serif;
+  color: #fff;
+}
+
+li {
+  display: inline-block;
+}
+
+.masthead {
+  background-color: #423ca3;
+  text-align: center;
+}
+
+.btn {
+  background-color: #15114c;
+  border: none;
+}
