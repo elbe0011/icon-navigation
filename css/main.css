@@ -1,5 +1,9 @@
 html {
   font-family: "Abhaya Libre", serif;
+}
+
+.logo, .nav {
+  text-align: center;
   color: #fff;
 }
 
@@ -15,4 +19,16 @@ li {
 .btn {
   background-color: #15114c;
   border: none;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .logo {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+
 }
