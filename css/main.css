@@ -2,7 +2,12 @@ html {
   font-family: "Abhaya Libre", serif;
 }
 
-.logo, .nav {
+.logo {
+  text-align: center;
+  color: #fff;
+}
+
+.nav {
   text-align: center;
   color: #fff;
 }
